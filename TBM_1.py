@@ -38,7 +38,7 @@ os.makedirs(
 )
 
 # CHANGE THIS
-SERVER_WS = "wss://fota-demo-v2-0.onrender.com/ws"
+SERVER_WS = "wss://fota-server-v1-0.onrender.com/ws"
 
 approved = False
 print("SERVER_WS =", SERVER_WS)

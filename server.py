@@ -997,7 +997,7 @@ async def campaign(
 
     base_url = os.getenv(
         "PUBLIC_URL",
-        "https://fota-demo-v2-0.onrender.com"
+        "https://fota-server-v1-0.onrender.com"
     )
     sgw_download_url = ""
     bcm_download_url = ""
